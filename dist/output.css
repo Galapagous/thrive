@@ -652,6 +652,18 @@ video {
   height: 7rem;
 }
 
+.h-2\/3 {
+  height: 66.666667%;
+}
+
+.h-144 {
+  height: 36rem;
+}
+
+.h-128 {
+  height: 32rem;
+}
+
 .max-h-32 {
   max-height: 8rem;
 }
@@ -714,6 +726,10 @@ video {
 
 .w-72 {
   width: 18rem;
+}
+
+.w-1\/2 {
+  width: 50%;
 }
 
 .flex-1 {
@@ -1118,6 +1134,11 @@ video {
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+.text-slate-50 {
+  --tw-text-opacity: 1;
+  color: rgb(248 250 252 / var(--tw-text-opacity));
 }
 
 .outline-none {
